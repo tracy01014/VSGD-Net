@@ -3,3 +3,6 @@ checkpoints/
 *.pth
 *.DS_Store
 sftp-config.json
+HE_datasets/
+human_data/
+__pycache__/
